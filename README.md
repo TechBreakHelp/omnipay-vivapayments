@@ -21,7 +21,7 @@ to your `composer.json` file:
 ```json
 {
     "require": {
-        "omnipay/vivapayments": "~2.0"
+        "techbreakhelp/omnipay-vivapayments": "~2.0"
     }
 }
 ```
